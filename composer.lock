@@ -1,1 +1,15 @@
-
+{
+    "_readme": [
+        "This is a manually created composer.lock file. It is recommended to generate this using 'composer install'."
+    ],
+    "packages": [],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
